@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <job>
+      <id>8</id>
+      <size>6</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2026-04-16 19:46:57.404368+00:00</created>
+      <updated>2026-04-16 19:51:18.193014+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>5</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>8</id>
+          <start>0</start>
+          <stop>5</stop>
+          <url>http://localhost:8080/api/jobs/8/dataset/export/api/jobs/8</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>tlietch</username>
+        <email>lietchtrevor@gmail.com</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>person</name>
+          <color>#c06060</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>car</name>
+          <color>#2080c0</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>truck</name>
+          <color>#906080</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>bus</name>
+          <color>#204080</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>motorcycle</name>
+          <color>#80a0a0</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>Traffic Light</name>
+          <color>#d0a000</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>Stop Sign</name>
+          <color>#f00080</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </job>
+    <dumped>2026-04-16 19:53:14.400391+00:00</dumped>
+  </meta>
+  <image id="0" name="1.png" width="1024" height="768">
+    <box label="Traffic Light" source="auto" occluded="0" xtl="404.00" ytl="0.00" xbr="490.00" ybr="56.00" z_order="0">
+    </box>
+    <box label="car" source="auto" occluded="0" xtl="646.00" ytl="455.00" xbr="762.00" ybr="548.00" z_order="0">
+    </box>
+    <box label="Traffic Light" source="auto" occluded="0" xtl="369.00" ytl="333.00" xbr="395.00" ybr="377.00" z_order="0">
+    </box>
+    <box label="Traffic Light" source="auto" occluded="0" xtl="0.00" ytl="198.00" xbr="38.00" ybr="288.00" z_order="0">
+    </box>
+    <box label="car" source="auto" occluded="0" xtl="389.00" ytl="431.00" xbr="660.00" ybr="546.00" z_order="0">
+    </box>
+    <box label="Traffic Light" source="auto" occluded="0" xtl="924.00" ytl="361.00" xbr="947.00" ybr="411.00" z_order="0">
+    </box>
+  </image>
+  <image id="1" name="2.png" width="634" height="366">
+    <box label="car" source="auto" occluded="0" xtl="483.00" ytl="189.00" xbr="633.00" ybr="279.00" z_order="0">
+    </box>
+    <box label="car" source="auto" occluded="0" xtl="1.00" ytl="0.00" xbr="226.00" ybr="341.00" z_order="0">
+    </box>
+    <box label="car" source="auto" occluded="0" xtl="446.00" ytl="197.00" xbr="496.00" ybr="244.00" z_order="0">
+    </box>
+    <box label="car" source="auto" occluded="0" xtl="333.00" ytl="203.00" xbr="397.00" ybr="249.00" z_order="0">
+    </box>
+    <box label="car" source="auto" occluded="0" xtl="422.00" ytl="200.00" xbr="454.00" ybr="235.00" z_order="0">
+    </box>
+    <box label="car" source="auto" occluded="0" xtl="615.00" ytl="193.00" xbr="633.00" ybr="222.00" z_order="0">
+    </box>
+  </image>
+  <image id="2" name="3.png" width="1280" height="720">
+    <box label="car" source="auto" occluded="0" xtl="907.00" ytl="313.00" xbr="1109.00" ybr="423.00" z_order="0">
+    </box>
+    <box label="car" source="auto" occluded="0" xtl="597.00" ytl="294.00" xbr="850.00" ybr="518.00" z_order="0">
+    </box>
+    <box label="car" source="auto" occluded="0" xtl="1212.00" ytl="350.00" xbr="1278.00" ybr="404.00" z_order="0">
+    </box>
+    <box label="car" source="auto" occluded="0" xtl="367.00" ytl="273.00" xbr="560.00" ybr="449.00" z_order="0">
+    </box>
+    <box label="car" source="auto" occluded="0" xtl="1.00" ytl="261.00" xbr="451.00" ybr="605.00" z_order="0">
+    </box>
+    <box label="Traffic Light" source="auto" occluded="0" xtl="1075.00" ytl="0.00" xbr="1164.00" ybr="120.00" z_order="0">
+    </box>
+    <box label="car" source="auto" occluded="0" xtl="554.00" ytl="277.00" xbr="579.00" ybr="298.00" z_order="0">
+    </box>
+    <box label="car" source="auto" occluded="0" xtl="817.00" ytl="300.00" xbr="871.00" ybr="338.00" z_order="0">
+    </box>
+    <box label="car" source="auto" occluded="0" xtl="1.00" ytl="285.00" xbr="74.00" ybr="366.00" z_order="0">
+    </box>
+    <box label="Traffic Light" source="auto" occluded="0" xtl="964.00" ytl="195.00" xbr="978.00" ybr="225.00" z_order="0">
+    </box>
+    <box label="car" source="auto" occluded="0" xtl="880.00" ytl="305.00" xbr="928.00" ybr="338.00" z_order="0">
+    </box>
+    <box label="car" source="auto" occluded="0" xtl="584.00" ytl="285.00" xbr="611.00" ybr="306.00" z_order="0">
+    </box>
+    <box label="Traffic Light" source="manual" occluded="0" xtl="673.70" ytl="235.18" xbr="696.76" ybr="257.29" z_order="0">
+    </box>
+  </image>
+  <image id="3" name="4.png" width="419" height="266">
+    <box label="person" source="auto" occluded="0" xtl="346.00" ytl="81.00" xbr="375.00" ybr="139.00" z_order="0">
+    </box>
+    <box label="car" source="auto" occluded="0" xtl="39.00" ytl="84.00" xbr="80.00" ybr="103.00" z_order="0">
+    </box>
+    <box label="car" source="auto" occluded="0" xtl="78.00" ytl="85.00" xbr="112.00" ybr="101.00" z_order="0">
+    </box>
+    <box label="person" source="auto" occluded="0" xtl="293.00" ytl="82.00" xbr="300.00" ybr="106.00" z_order="0">
+    </box>
+    <box label="car" source="auto" occluded="0" xtl="160.00" ytl="85.00" xbr="174.00" ybr="98.00" z_order="0">
+    </box>
+    <box label="bus" source="semi-auto" occluded="0" xtl="187.00" ytl="58.00" xbr="227.00" ybr="108.00" z_order="0">
+    </box>
+    <box label="car" source="auto" occluded="0" xtl="117.00" ytl="82.00" xbr="166.00" ybr="117.00" z_order="0">
+    </box>
+  </image>
+  <image id="4" name="5.png" width="3415" height="1900">
+  </image>
+  <image id="5" name="6.png" width="3330" height="1665">
+    <box label="person" source="auto" occluded="0" xtl="792.00" ytl="1018.00" xbr="958.00" ybr="1524.00" z_order="0">
+    </box>
+    <box label="person" source="auto" occluded="0" xtl="2281.00" ytl="1011.00" xbr="2431.00" ybr="1450.00" z_order="0">
+    </box>
+    <box label="person" source="auto" occluded="0" xtl="2174.00" ytl="1063.00" xbr="2293.00" ybr="1403.00" z_order="0">
+    </box>
+    <box label="person" source="auto" occluded="0" xtl="2086.00" ytl="1095.00" xbr="2181.00" ybr="1375.00" z_order="0">
+    </box>
+    <box label="person" source="auto" occluded="0" xtl="2010.00" ytl="1097.00" xbr="2086.00" ybr="1368.00" z_order="0">
+    </box>
+    <box label="person" source="auto" occluded="0" xtl="1358.00" ytl="1140.00" xbr="1438.00" ybr="1347.00" z_order="0">
+    </box>
+    <box label="person" source="auto" occluded="0" xtl="1110.00" ytl="1086.00" xbr="1197.00" ybr="1340.00" z_order="0">
+    </box>
+    <box label="person" source="auto" occluded="0" xtl="361.00" ytl="1108.00" xbr="577.00" ybr="1417.00" z_order="0">
+    </box>
+    <box label="person" source="auto" occluded="0" xtl="2957.00" ytl="833.00" xbr="3239.00" ybr="1661.00" z_order="0">
+    </box>
+    <box label="person" source="auto" occluded="0" xtl="590.00" ytl="975.00" xbr="774.00" ybr="1497.00" z_order="0">
+    </box>
+  </image>
+</annotations>

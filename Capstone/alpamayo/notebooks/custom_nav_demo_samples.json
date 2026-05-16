@@ -1,0 +1,12 @@
+[
+  {
+    "clip_id": "route_3_segment_03",
+    "t0": 80,
+    "clip_start_timestamp": 0,
+    "t0_relative": 80,
+    "nav_text": "Take the next left",
+    "nav_maneuver": "TURN_LEFT",
+    "distance_m": 75.0,
+    "cot": "Turn at intersection"
+  }
+]
